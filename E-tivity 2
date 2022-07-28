@@ -1,0 +1,80 @@
+
+/
+Abaasa
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Abaasa/Dan Abaasa
+@Abaasadan
+Abaasada
+
+
+# Atukwatse
+E-tivity 2
+<!DOCTYPE html/> 
+ <html> 
+ <head> 
+         <title> MY first page</title> 
+         <meta charset="utf-8"> 
+         <style type="text/css"> 
+                                         .nav a{ 
+                                                 color: blue; 
+                                                 text-decoration: none; 
+                                                 float: left; 
+                                                 font-style: italic,sans-serif; 
+                                                 padding: 20px 20px; 
+  
+  
+                                         } 
+                                         .nav a:hover{ 
+                                                 background-color: #ddd; 
+                                                  
+                                         } 
+  
+                                         @media screen and (min-width: 600px){ 
+                                                 body{ 
+                                                         background-color: green; 
+                                                         color: red; 
+  
+                                                 } 
+  
+                                         } 
+                                         img{ 
+                                                 float: left; 
+  
+                                         } 
+                                 </style> 
+                          
+ </head> 
+  
+ <body> 
+         <div class="nav"> 
+                         <a href="home page.html"><u>Browse my projects</u></a> 
+                          
+                 </div> 
+         <center><h1><b>MY BIO DATA</b></h1></center> 
+         <p><img src="pic.JPG"" style="width: 200px; height: 300px;" > 
+         <p><b>NAME</b>:<i> Atukwatse Brutus</i></p> 
+  
+         <p><b>GENDER</b>:<i> MALE</i></p> 
+         <p>AGE: 21</p> 
+         <p><b>INSTITUTION</b>: MBARARA UNIVERSITY OF SCIENCE AND TECHNOLOGY</</p> 
+         <p><b>FACULTY</b>: COMPUTING AND INFORMATICS</p> 
+         <p><b>REG NO</b>: 2021/BIT/147.</p> 
+         <p><b>COURSE</b>: BACHELOR OF INFORMATION TECHNOLOGY</p> 
+  
+  
+ </p> 
+  
+ </body> 
+  
+  
+  
+  
+ </html>
